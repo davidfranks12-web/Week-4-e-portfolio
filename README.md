@@ -12,8 +12,9 @@ The descriptions of the ethical theories, along with example scenarios provided 
 ##Artefact 2
 ()
 ### Description of the Artefact:
-
+A study conducted by the Massachusetts Institute of Technology (MIT) and Oxford University on using Twitter location data to identify users homes (Hardesty, 2026). 
 ### Why I chose this Artefact:
+This study was conducted to ascertain how much information a user on Twitter reveals with locations stamps on as few as 8 posts a day (Hardesty, 2026). This service is off by default, but users can activate the service themselves, consenting to sharing geographical co-ordinates automatically tied to each post. This study shows an interesting issue of informed consent, where users assume that the information they are sharing is less dangerous than it is. It seems ethically incorrect to obscure or misrepresent the risks of consenting to these terms, as  the use of someone as a means to an end goes against the theory of Kantianism. 
 
 ##Artefact 3
 ()
