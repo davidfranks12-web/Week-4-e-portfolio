@@ -1,2 +1,30 @@
 # Week-4-e-portfolio
-A collection of Artefacts and reflections on my understanding of ethical theories
+A collection of Artefacts and reflections on my understanding of ethical theories.
+
+##Artefact 1
+(Image here, quote from Quinn)
+### Description of the Artefact:
+Definitions and examples of 5 ethical theories as shown in Ethics For The Information Age.
+
+### Why I chose this Artefact:
+The descriptions of the ethical theories, along with example scenarios provided were understandable and insightful (Quinn). The use of well thought out examples is a powerful tool to contextualise complicated or abstract ideas, and provides a framework for understanding.  Knowledge of each theory allows me to better understand my responsibilities to society, the workplace and my peers. Within a career in ICT there will be times when I may be asked to do something unethical, and having the tools required to identify what is wrong and why is critical to my success. 
+
+##Artefact 2
+()
+### Description of the Artefact:
+
+### Why I chose this Artefact:
+
+##Artefact 3
+()
+### Description of the Artefact:
+
+### Why I chose this Artefact:
+
+## Artefact 4
+(Insert Image Here)
+### Description of the Artefact:
+A reflection on the discussions during this weeks workshop.
+
+### Why I chose the Artefact:
+In class we discussed an overview of each of 5 Ethical theories. I found Kantianism easy to comprehend, perhaps due to the similarities to idioms we use in society. “Do unto others as you would have them do unto you” for example. Act Utilitarianism was presented as framework a government might use, weighing the perceived costs and benefits to decide the correctness of an action. Rule Utilitarianism seemed to me to be the most functional theory, placing value on intent and law. Each ethical theory has known strengths and weaknesses, and each have scenarios that can't be fully accounted for. My key takeaway from this workshop was to apply more than one framework whenever possible when making decisions in ICT.
