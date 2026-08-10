@@ -1,4 +1,4 @@
-# Week-4-e-portfolio
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/f4e02e75-9e86-4f15-9dc9-1aa13a199453" /># Week-4-e-portfolio
 A collection of Artefacts and reflections on my understanding of ethical theories.
 
 ##Artefact 1
@@ -10,7 +10,7 @@ Definitions and examples of 5 ethical theories as shown in Ethics For The Inform
 The descriptions of the ethical theories, along with example scenarios provided were understandable and insightful (Quinn). The use of well thought out examples is a powerful tool to contextualise complicated or abstract ideas, and provides a framework for understanding.  Knowledge of each theory allows me to better understand my responsibilities to society, the workplace and my peers. Within a career in ICT there will be times when I may be asked to do something unethical, and having the tools required to identify what is wrong and why is critical to my success. 
 
 ##Artefact 2
-()
+![Screenshot2](MITNewsClip.png)
 ### Description of the Artefact:
 A study conducted by the Massachusetts Institute of Technology (MIT) and Oxford University on using Twitter location data to identify users homes (MIT News, 2026). 
 ### Why I chose this Artefact:
@@ -23,7 +23,7 @@ This study was conducted to ascertain how much information a user on Twitter rev
 ### Why I chose this Artefact:
 
 ## Artefact 4
-![Screenshot](Selfie4.png)
+![Screenshot4](Selfie4.png)
 ### Description of the Artefact:
 A reflection on the discussions during this weeks workshop.
 
