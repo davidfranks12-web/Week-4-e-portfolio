@@ -7,7 +7,7 @@ A collection of Artefacts and reflections on my understanding of ethical theorie
 Definitions and examples of 5 ethical theories as shown in Ethics For The Information Age.
 
 ### Why I chose this Artefact:
-The descriptions of the ethical theories, along with example scenarios provided were understandable and insightful (Quinn, 2015). The use of well thought out examples is a powerful tool to contextualise complicated or abstract ideas, and provides a framework for understanding. Knowledge of each theory allows me to better understand my responsibilities to society, the workplace and my peers. Within a career in ICT there will be times when I may be asked to do something unethical, and having the tools required to identify what is wrong and why is critical to my success. 
+The descriptions of the ethical theories, along with example scenarios provided were understandable and insightful (Quinn, 2015). The use of well thought out examples is a powerful tool to contextualise complicated or abstract ideas, and provides a framework for understanding. Knowledge of each theory allows me to better understand my responsibilities to society, the workplace and my peers. Within my career in ICT there will be times when I may be asked to do something unethical, and using these tools to identify what is wrong and why is critical to my success. 
 
 ## Artefact 2
 ![Screenshot2](MITNewsClip.png)
