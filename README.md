@@ -2,12 +2,12 @@
 A collection of Artefacts and reflections on my understanding of ethical theories.
 
 ## Artefact 1
-![Screenshot1]
+![Screenshot1](Quinn.png)
 ### Description of the Artefact:
 Definitions and examples of 5 ethical theories as shown in Ethics For The Information Age.
 
 ### Why I chose this Artefact:
-The descriptions of the ethical theories, along with example scenarios provided were understandable and insightful (Quinn). The use of well thought out examples is a powerful tool to contextualise complicated or abstract ideas, and provides a framework for understanding.  Knowledge of each theory allows me to better understand my responsibilities to society, the workplace and my peers. Within a career in ICT there will be times when I may be asked to do something unethical, and having the tools required to identify what is wrong and why is critical to my success. 
+The descriptions of the ethical theories, along with example scenarios provided were understandable and insightful (Quinn, 2015). The use of well thought out examples is a powerful tool to contextualise complicated or abstract ideas, and provides a framework for understanding. Knowledge of each theory allows me to better understand my responsibilities to society, the workplace and my peers. Within a career in ICT there will be times when I may be asked to do something unethical, and having the tools required to identify what is wrong and why is critical to my success. 
 
 ## Artefact 2
 ![Screenshot2](MITNewsClip.png)
@@ -19,8 +19,10 @@ This study was conducted to ascertain how much information a user on Twitter rev
 ## Artefact 3
 ()
 ### Description of the Artefact:
+A report from ABC News expressing concerns over the use of Artificial Intelligence (AI) assisted glasses.
 
 ### Why I chose this Artefact:
+This report by ABC News (2026) queried an industry professional about his views on the usage of AI assisted glasses within Australia. He mentioned potential benefits to users with impairments to vision or hearing, however he also expressed a number of concerns around invasions of privacy, lack of consent, and security risks. This product is a great example of Act Utilitarianism in practice, and how perceived cost and benefits can differ from perspective. This report convinced me not to rely on this theory in my career, as it seems easy to value personal benefits more public costs.    
 
 ## Artefact 4
 ![Screenshot4](Selfie4.png)
