@@ -34,6 +34,8 @@ A reflection on the discussions during this weeks workshop.
 In class we discussed an overview of each of 5 Ethical theories. I found Kantianism easy to comprehend, perhaps due to the similarities to idioms we use in society. “Do unto others as you would have them do unto you” for example. Act Utilitarianism was presented as framework a government might use, weighing the perceived costs and benefits to decide the correctness of an action. Rule Utilitarianism seemed to me to be the most functional theory, placing value on intent and law. Each ethical theory has known strengths and weaknesses, and each have scenarios that can't be fully accounted for. My key takeaway from this workshop was to apply more than one framework whenever possible when making decisions in ICT.
 
 # References
-MIT News 2016, Twitter data helps researchers spot home and work locations, viewed 5 August 2026, https://news.mit.edu/2016/twitter-location-data-homes-workplaces-0517  
+ABC News (Australia) 2024, *AI glasses are going mainstream. What are the risks? | ABC NEWS*, online video, viewed 10 August 2026, https://www.youtube.com/watch?v=qTXGJbxvcUg.
 
-Quinn, MJ 2019, Ethics for the Information Age, 8th edition, Pearson Education US, ©2020, viewed 5 August 2026, https://research.ebsco.com/c/uiheld/ebook-viewer/epub/nfwgiu2wab/section/toc_P7001016046000000000000000000A95. 
+MIT News 2016, *Twitter data helps researchers spot home and work locations*, viewed 5 August 2026, https://news.mit.edu/2016/twitter-location-data-homes-workplaces-0517  
+
+Quinn, MJ 2019, *Ethics for the Information Age*, 8th edition, Pearson Education US, viewed 5 August 2026, https://research.ebsco.com/c/uiheld/ebook-viewer/epub/nfwgiu2wab/section/toc_P7001016046000000000000000000A95. 
