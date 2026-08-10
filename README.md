@@ -23,7 +23,7 @@ https://www.youtube.com/watch?v=qTXGJbxvcUg
 A report from ABC News expressing concerns over the use of Artificial Intelligence (AI) assisted glasses.
 
 ### Why I chose this Artefact:
-This report by ABC News (2026) queried an industry professional about his views on the usage of AI assisted glasses within Australia. He mentioned potential benefits to users with impairments to vision or hearing, however he also expressed a number of concerns around invasions of privacy, lack of consent, and security risks. This product is a great example of Act Utilitarianism in practice, and how perceived cost and benefits can differ from perspective. This report convinced me not to rely on this theory in my career, as it seems easy to value personal benefits more public costs.    
+This report by ABC News (2026) queried an industry professional about his views on the usage of AI assisted glasses within Australia. He mentioned potential benefits to users with impairments to vision or hearing, however he also expressed a number of concerns around invasions of privacy, lack of consent, and security risks. This product is a great example of Act Utilitarianism in practice, and how perceived cost and benefits can differ from perspective. This report convinced me not to rely on this theory in my career, as it seems easy to value personal benefits more than public costs.    
 
 ## Artefact 4
 ![Screenshot4](Selfie4.png)
