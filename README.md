@@ -2,7 +2,7 @@
 A collection of Artefacts and reflections on my understanding of ethical theories.
 
 ## Artefact 1
-(Image here, quote from Quinn)
+![Screenshot1]
 ### Description of the Artefact:
 Definitions and examples of 5 ethical theories as shown in Ethics For The Information Age.
 
