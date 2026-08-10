@@ -1,4 +1,3 @@
-<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/f4e02e75-9e86-4f15-9dc9-1aa13a199453" /># Week-4-e-portfolio
 A collection of Artefacts and reflections on my understanding of ethical theories.
 
 ##Artefact 1
