@@ -1,7 +1,7 @@
 # Week-4-e-portfolio-1---Ethical-Theories
 A collection of Artefacts and reflections on my understanding of ethical theories.
 
-##Artefact 1
+## Artefact 1
 (Image here, quote from Quinn)
 ### Description of the Artefact:
 Definitions and examples of 5 ethical theories as shown in Ethics For The Information Age.
@@ -9,14 +9,14 @@ Definitions and examples of 5 ethical theories as shown in Ethics For The Inform
 ### Why I chose this Artefact:
 The descriptions of the ethical theories, along with example scenarios provided were understandable and insightful (Quinn). The use of well thought out examples is a powerful tool to contextualise complicated or abstract ideas, and provides a framework for understanding.  Knowledge of each theory allows me to better understand my responsibilities to society, the workplace and my peers. Within a career in ICT there will be times when I may be asked to do something unethical, and having the tools required to identify what is wrong and why is critical to my success. 
 
-##Artefact 2
+## Artefact 2
 ![Screenshot2](MITNewsClip.png)
 ### Description of the Artefact:
 A study conducted by the Massachusetts Institute of Technology (MIT) and Oxford University on using Twitter location data to identify users homes (MIT News, 2026). 
 ### Why I chose this Artefact:
 This study was conducted to ascertain how much information a user on Twitter reveals with locations stamps on as few as 8 posts a day (MIT News, 2026). This service is off by default, but users can activate the service themselves, consenting to sharing geographical co-ordinates automatically tied to each post. This study shows an interesting issue of informed consent, where users assume that the information they are sharing is less dangerous than it is. It seems unethical to obscure or misrepresent the risks of consenting to these terms, as the use of someone as a means to an end goes against the theory of Kantianism. 
 
-##Artefact 3
+## Artefact 3
 ()
 ### Description of the Artefact:
 
