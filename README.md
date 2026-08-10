@@ -23,7 +23,7 @@ This study was conducted to ascertain how much information a user on Twitter rev
 ### Why I chose this Artefact:
 
 ## Artefact 4
-(Insert Image Here)
+![Screenshot]
 ### Description of the Artefact:
 A reflection on the discussions during this weeks workshop.
 
