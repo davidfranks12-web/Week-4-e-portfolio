@@ -1,4 +1,4 @@
-# Week-4-e-portfolio-1---Ethical-Theories
+# Week-4-e-portfolio-2---Ethical-Theories
 A collection of Artefacts and reflections on my understanding of ethical theories.
 
 ## Artefact 1
